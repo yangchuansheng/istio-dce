@@ -1,0 +1,8 @@
+metadata:
+  labels:
+    dce.daocloud.io/app: APPNAME
+spec:
+  template:
+    metadata:
+      labels:
+        dce.daocloud.io/app: APPNAME
