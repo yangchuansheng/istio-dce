@@ -13,9 +13,9 @@
 ## 🚀 准备工作
 首先需要在 DCE 控制台中创建访问秘钥
 
-<div align=center><img width="700" src="https://hugo-picture.oss-cn-beijing.aliyuncs.com/blog/2019-07-11-%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-11%20%E4%B8%8B%E5%8D%883.48.38.png"/></div>
+<div align=center><img width="700" src="img/create-key-1.png"/></div>
 
-<div align=center><img width="700" src="https://hugo-picture.oss-cn-beijing.aliyuncs.com/blog/2019-07-11-%E5%B1%8F%E5%B9%95%E5%BF%AB%E7%85%A7%202019-07-11%20%E4%B8%8B%E5%8D%883.51.41.png"/></div>
+<div align=center><img width="700" src="img/create-key-2.png"/></div>
 
 ## 开始部署
 
