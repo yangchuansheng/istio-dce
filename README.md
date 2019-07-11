@@ -36,9 +36,7 @@ $ bash deploy-istio.sh
 
 ## 演示 DEMO
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-  <iframe src="//player.bilibili.com/player.html?aid=57954809&cid=101128194&page=1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen="true"></iframe>
-</div>
+[![Watch the video](https://hugo-picture.oss-cn-beijing.aliyuncs.com/blog/2019-07-11-istio-on-dce-0001.png)](https://www.bilibili.com/video/av58748590/)
 
 ## 作者
 
